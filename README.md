@@ -19,23 +19,23 @@
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e1.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e2.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e3.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e4.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e5.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e6.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e7.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e8.PNG)
 
-![]()
+![](https://github.com/smvaca2/informe-tarea-7/blob/2b9fbc2ba6403e5a138fc824e089306b6e5cd996/e9.PNG)
 
 ![]()
 
