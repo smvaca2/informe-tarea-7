@@ -63,7 +63,7 @@ _Estudiar los capacitores e inductores.
 
 ***4)Video***
 
-https://youtu.be/-wb79LMXqMw
+https://youtu.be/41zUtzAfWyQ
 
 ***5.Conclusiones***
 
